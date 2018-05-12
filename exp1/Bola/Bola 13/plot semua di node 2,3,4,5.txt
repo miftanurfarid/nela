@@ -1,0 +1,4 @@
+hold on;plot(f1,log10(alpha2));xlim([0 750]);
+hold on;plot(f1,log10(alpha3));xlim([0 750]);
+hold on;plot(f1,log10(alpha4));xlim([0 750]);
+hold on;plot(f1,log10(alpha5));xlim([0 750]);

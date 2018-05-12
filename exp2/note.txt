@@ -1,0 +1,6 @@
+Plot grafik:
+1. Power Spectral Density thdp fekuensi [x]
+2. eigenvector thdp frekuensi           [?]
+3. transmissibility thdp frekuensi      [x] : asalkan ada data campuran dan single
+4. koherensi thd frekuensi              [?]
+5. apparent mass terhadap frekuensi     [?]
