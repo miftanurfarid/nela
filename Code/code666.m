@@ -121,7 +121,7 @@ alpha35=abs(alpha35)';
 % rfp bola
 figure;
 plot(f(1:fpos),log10(alpha11));hold on;
-plot(f(1:3841),log10(alpha12));
+plot(f(1:fpos),log10(alpha12));
 plot(f(1:fpos),log10(alpha13));
 plot(f(1:fpos),log10(alpha14));
 plot(f(1:fpos),log10(alpha15));axis tight; hold off;
